@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(148, 156, 174);
+    font-family: 'Concert One', cursive;
+}
+.btn {
+    border: none;
+    color: #eeeeee;
+    padding: .375rem 1.75rem;
+    font-size: 2rem;
+}
+
+.btn-primary{
+    background-color: #49475B;
+    font-weight: 700;
+}
+
+.btn-primary:hover{
+    background-color: #14080E;
+}
+
+.btn-secondary{
+    background-color: #47bbc4;
+}
+
+.btn-secondary:hover{
+    background-color: #447194;
+}
+
+.btn-info{
+    background-color: #EE6C4D;
+}
+.btn-info:hover{
+    background-color: #da4c29;
+    color: #eeeeee;
+}

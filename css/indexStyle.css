@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(148, 156, 174);
+    font-family: 'Concert One', cursive;
+}
+
+.card{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.card:hover{
+    background-color: rgb(251, 221, 221);
+    cursor: pointer;
+    border: 1px solid rgb(32, 38, 68);
+}
