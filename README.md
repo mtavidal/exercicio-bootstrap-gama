@@ -12,3 +12,5 @@
 - grid
 - modal
 - nav
+
+##### Adicionalmente, possui pasta com exercícios utilizando Sass.
